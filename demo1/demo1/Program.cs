@@ -40,6 +40,9 @@ namespace demo1
             Console.WriteLine("Moi nhap thang");
             thang = Convert.ToInt32(Console.ReadLine());
             return thang;
+        }public void code()
+        {
+            Console.WriteLine("Code kho vai loz");
         }
     }
 }
