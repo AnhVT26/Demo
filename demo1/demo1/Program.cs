@@ -12,6 +12,13 @@ namespace demo1
         {
             Console.WriteLine("Shit head");
             Console.WriteLine("ABC");
+
+        }
+        public int SoNgay(int thang)
+        {
+            Console.WriteLine("Moi nhap thang");
+            thang = Convert.ToInt32(Console.ReadLine());
+            return thang;
         }
     }
 }
