@@ -11,6 +11,7 @@ namespace demo1
         static void Main(string[] args)
         {
             Console.WriteLine("Shit head");
+            Console.WriteLine("ABC");
         }
     }
 }
