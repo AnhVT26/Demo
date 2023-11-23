@@ -13,6 +13,7 @@ namespace demo1
             Console.WriteLine("Shit head");
             Console.WriteLine("ABC");
 
+            //SoNgay(19);
         }
         public int SoNgay(int thang)
         {
