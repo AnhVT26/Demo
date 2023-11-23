@@ -25,6 +25,16 @@ namespace demo1
             Console.WriteLine("Moi nhap thang");
             thang = Convert.ToInt32(Console.ReadLine());
             return thang;
+        }public int SoNgay3(int thang)
+        {
+            Console.WriteLine("Moi nhap thang");
+            thang = Convert.ToInt32(Console.ReadLine());
+            return thang;
+        }public int SoNgay4(int thang)
+        {
+            Console.WriteLine("Moi nhap thang");
+            thang = Convert.ToInt32(Console.ReadLine());
+            return thang;
         }
     }
 }
